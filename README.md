@@ -16,11 +16,13 @@ you want too.
 
 The board can be represented simply using text only, e.g.:
 
+```
 1|2|O
 -+-+-
 4|X|O
 -+-+-
 X|8|9
+```
 
 where the numbers are places where the current player can place their mark, and “X” and “O” are
 the player’s marks that have been placed already.
